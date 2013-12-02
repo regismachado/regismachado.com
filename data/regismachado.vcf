@@ -1,0 +1,9 @@
+BEGIN:VCARD
+N:Machado;Régis;Neves;Sr.;
+ADR;INTL;PARCEL;WORK:;;;Pelotas;RS;;Brazil
+ADR;DOM;PARCEL;HOME:;;;Pelotas;RS;;Brazil
+EMAIL;INTERNET:talk@regismachado.com
+TEL;HOME:+55 (53) 8143-0051
+TITLE:Java Developer
+URL:http://regismachado.com
+END:VCARD
